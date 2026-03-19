@@ -17,26 +17,6 @@ Uma ferramenta simples e eficiente para limpar códigos numéricos de boletos, r
 
 ---
 
-## 🖥️ Extensão para navegador (Edge / Chrome)
-
-Disponível como extensão com painel lateral — abre com um clique na barra de ferramentas, igual ao Copilot no Edge.
-
-**Compatível com:** Microsoft Edge, Google Chrome e qualquer navegador baseado em Chromium (Brave, Opera, Vivaldi…)
-
-### Instalação
-
-1. Baixe o arquivo `limpa-boleto-extension.zip` na seção [Releases](../../releases) e extraia em uma pasta fixa no seu computador (ex: `C:\Extensoes\limpa-boleto`)
-2. Abra as extensões do seu navegador:
-   - **Edge:** `edge://extensions`
-   - **Chrome:** `chrome://extensions`
-3. Ative o **Modo de desenvolvedor** (canto superior direito)
-4. Clique em **Carregar sem compactação** e selecione a pasta extraída
-5. O ícone do Limpa Boleto aparecerá na barra de ferramentas — clique para abrir o painel lateral
-
-> ⚠️ Por ser uma extensão local (não publicada na loja), o navegador pode exibir um aviso ocasional — clique em **Manter** para continuar.
-
----
-
 ## 🚀 Como usar
 
 ### Aba Texto
@@ -82,3 +62,25 @@ Esta ferramenta funciona **100% no navegador**. Nenhum dado é enviado a servido
 ## 📄 Licença
 
 MIT — livre para usar, modificar e distribuir.
+
+
+---
+
+## 🖥️ Extensão para navegador (Edge / Chrome)
+
+Disponível como extensão com painel lateral — abre com um clique na barra de ferramentas, igual ao Copilot no Edge.
+
+**Compatível com:** Microsoft Edge, Google Chrome e qualquer navegador baseado em Chromium (Brave, Opera, Vivaldi…)
+
+### Instalação
+
+1. Baixe o arquivo `limpa-boleto-extension.zip` na seção [Releases](../../releases) e extraia em uma pasta fixa no seu computador (ex: `C:\Extensoes\limpa-boleto`)
+2. Abra as extensões do seu navegador:
+   - **Edge:** `edge://extensions`
+   - **Chrome:** `chrome://extensions`
+3. Ative o **Modo de desenvolvedor** (canto superior direito)
+4. Clique em **Carregar sem compactação** e selecione a pasta extraída
+5. O ícone do Limpa Boleto aparecerá na barra de ferramentas — clique para abrir o painel lateral
+
+> ⚠️ Por ser uma extensão local (não publicada na loja), o navegador pode exibir um aviso ocasional — clique em **Manter** para continuar.
+
