@@ -2,7 +2,7 @@
 
 Uma ferramenta simples e eficiente para limpar códigos numéricos de boletos, removendo automaticamente pontos e espaços. Também permite a leitura por meio de imagens (requer chave de API do Google Vision).
 
-🔗 **[Acessar ferramenta](https://seu-usuario.github.io/nome-do-repo)**
+🔗 **[Acessar ferramenta](https://willz1to.github.io/limpa-boleto)**
 
 ---
 
@@ -20,7 +20,7 @@ Uma ferramenta simples e eficiente para limpar códigos numéricos de boletos, r
 ## 🚀 Como usar
 
 ### Aba Texto
-1. Copie o código do boleto (ex: `23792.11804 95181.000001 26002.853302 2 11560000090700`)
+1. Copie o código do boleto (ex: `23792.11805 95181.000001 26002.854302 2 11560000090700`)
 2. Cole no campo — o resultado aparece automaticamente
 3. Clique no resultado para copiar
 
