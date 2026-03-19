@@ -2,7 +2,7 @@
 
 Uma ferramenta simples e eficiente para limpar códigos numéricos de boletos, removendo automaticamente pontos e espaços. Também permite a leitura por meio de imagens (requer chave de API do Google Vision).
 
-🔗 **[Acessar ferramenta](https://willz1to.github.io/limpa-boleto)**
+🔗 **[Acessar ferramenta online](https://willz1to.github.io/limpa-boleto/)**
 
 ---
 
@@ -17,10 +17,30 @@ Uma ferramenta simples e eficiente para limpar códigos numéricos de boletos, r
 
 ---
 
+## 🖥️ Extensão para navegador (Edge / Chrome)
+
+Disponível como extensão com painel lateral — abre com um clique na barra de ferramentas, igual ao Copilot no Edge.
+
+**Compatível com:** Microsoft Edge, Google Chrome e qualquer navegador baseado em Chromium (Brave, Opera, Vivaldi…)
+
+### Instalação
+
+1. Baixe o arquivo `limpa-boleto-extension.zip` na seção [Releases](../../releases) e extraia em uma pasta fixa no seu computador (ex: `C:\Extensoes\limpa-boleto`)
+2. Abra as extensões do seu navegador:
+   - **Edge:** `edge://extensions`
+   - **Chrome:** `chrome://extensions`
+3. Ative o **Modo de desenvolvedor** (canto superior direito)
+4. Clique em **Carregar sem compactação** e selecione a pasta extraída
+5. O ícone do Limpa Boleto aparecerá na barra de ferramentas — clique para abrir o painel lateral
+
+> ⚠️ Por ser uma extensão local (não publicada na loja), o navegador pode exibir um aviso ocasional — clique em **Manter** para continuar.
+
+---
+
 ## 🚀 Como usar
 
 ### Aba Texto
-1. Copie o código do boleto (ex: `23792.11805 95181.000001 26002.854302 2 11560000090700`)
+1. Copie o código do boleto (ex: `23792.11804 95181.000001 26002.853302 2 11560000090700`)
 2. Cole no campo — o resultado aparece automaticamente
 3. Clique no resultado para copiar
 
